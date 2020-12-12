@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@nickx720" frameborder="0"></iframe>
-  </div>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickx720"
+/>

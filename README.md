@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickx720"
 />
+
+<img src="https://github.com/nickx720/nickx720/blob/output/github-contribution-grid-snake.svg" />
